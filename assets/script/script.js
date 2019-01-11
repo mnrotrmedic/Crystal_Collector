@@ -55,7 +55,7 @@ function buttonWrite() {
         // include CSS class for size, hover & click states...
         buttonImage.addClass("button-stuff");
         // use this image...
-        buttonImage.attr("src", "Assets/Images/bluerupee.png");
+        buttonImage.attr("src", "assets/images/bluerupee.png");
         // and give it this attribute (will add specific value later...somehow)
         buttonImage.attr("integer-buttonValue", buttonValue[k]);
         // Add image to DOM in proper div
